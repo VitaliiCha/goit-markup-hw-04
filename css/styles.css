@@ -288,11 +288,8 @@ body {
 }
 .our-messengers:hover,
 .our-messengers:focus {
-  background-color: var(--accent-color-text);
-}
-.our-messengers:hover,
-.our-messengers:focus {
   fill: var(--second-text-color);
+  background-color: var(--accent-color-text);
 }
 /* Постійні клієнти */
 .client-list {
@@ -389,7 +386,7 @@ body {
 }
 .footer-messengers:hover,
 .footer-messengers:focus {
-  fill: var(--accent-color-text);
+  background-color: var(--accent-color-text);
 }
 /* Портфоліо */
 /* Фільтер */
