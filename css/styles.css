@@ -123,6 +123,9 @@ body {
   fill: var(--accent-color-text);
 }
 /* Герой */
+.hero-back {
+  background-color: var(--second-background-color);
+}
 .hero {
   max-width: 1600px;
   height: 600px;
